@@ -7,4 +7,6 @@ Practice repository for team members to learn how to use github collaboratively
 
 **Team Member:** Taylor Boatwright      **Favorite Food:** Pizza      **Favorite Pastime:** Being outdoors 
 
-Jada Lytch      **Favorite Food:** Pizza      **Favorite Pastime:** Sleeping
+**Team Member:** Jada Lytch             **Favorite Food:** Pizza      **Favorite Pastime:** Sleeping
+
+**Team Member:** Ja'Nya Breeden         **Favorite Food:** Food        **Favorite Pastime:** Eating
